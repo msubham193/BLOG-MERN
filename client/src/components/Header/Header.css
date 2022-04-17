@@ -1,0 +1,44 @@
+    
+@import url(https://fonts.googleapis.com/css?family=Square+Peg:regular);
+.header{
+   /* margin-top: 60px; */
+
+}
+.headerTitles{
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.headerTitlesm{
+
+   position:absolute;
+   top:15%;
+   font-size: 50px;
+   font-weight: bold;
+   color:white;
+
+   font-family: 'Square Peg', cursive;
+
+}
+.headerTitleLg{
+
+   position:absolute;
+   top: 17%;
+   font-size: 200px;
+   font-weight: bold;
+   color:white;
+   font-family: 'Square Peg', cursive;
+   
+
+
+}
+.headerImg{
+ 
+    width:100%;
+    height: 600px;
+    /* margin-top: 80px; */
+    object-fit: cover;
+
+}
